@@ -12,11 +12,10 @@
    :maxdepth: 1
    :glob:
 
-   contacts
-   progress
    statistics
+   progress
    schools/**/*
-   
+   authors
 
 
 索引和目录

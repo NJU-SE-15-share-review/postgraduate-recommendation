@@ -15,7 +15,7 @@
 - Python 3
 - pipenv（`pip install --user pipenv`）
 
-本项目使用[reStructuredText](http://www.sphinx-doc.org/en/master/usage/restructuredtext/basics.html)或者[markdown](https://www.markdownguide.org/)进行写作，请至少学会其中一种格式。
+本项目使用[reStructuredText](http://www.sphinx-doc.org/en/master/usage/restructuredtext/basics.html进行写作，请学习它。
 
 本项目使用[sphinx](http://www.sphinx-doc.org/en/master/contents.html)进行文档生成，如果需要学习对项目进行修改，请查看sphinx的文档。
 
@@ -27,15 +27,12 @@
 
 ## Tips
 
-- sphinx对markdown的支持比较差，比如不支持表格。如果需要用特殊/高级功能可以考虑用reStructuredText。
 - 目前暂时没看到一个能用的支持中文的reST表格生成器，可以考虑使用VSCode的[Table Formatter](https://marketplace.visualstudio.com/items?itemName=shuworks.vscode-table-formatter)插件进行表格的格式化
-- 要在VSCode里预览，请在VSCode里选择Python解释器为带有**pipenv**字样的那项。
+- 要在VSCode里预览，请在VSCode里选择Python解释器为带有**pipenv**字样的那项，但此操作需要修改`.vscode/settings.json`目录，不要把它提交上来！
 
 ## 贡献
 
 fork项目后发PR。
-
-## 贡献者
 
 # 许可证
 

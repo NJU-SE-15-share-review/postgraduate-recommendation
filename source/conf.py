@@ -28,10 +28,13 @@ author = 'Students of NJU Software Institute'
 # extensions coming with Sphinx (named 'sphinx.ext.*') or your custom
 # ones.
 extensions = [
-    'recommonmark',
     'sphinx_rtd_theme',
     'sphinx.ext.autosectionlabel',
+    'sphinx.ext.extlinks',
 ]
+
+# Enable label prefixing 
+autosectionlabel_prefix_document = True
 
 # Add any paths that contain templates here, relative to this directory.
 templates_path = ['_templates']
