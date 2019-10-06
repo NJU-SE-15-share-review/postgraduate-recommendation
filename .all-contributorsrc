@@ -1,0 +1,37 @@
+{
+  "projectName": "postgraduate-recommendation",
+  "projectOwner": "viccrubs",
+  "repoType": "github",
+  "repoHost": "https://github.com",
+  "files": [
+    "README.md"
+  ],
+  "imageSize": 64,
+  "commit": false,
+  "commitConvention": "none",
+  "contributors": [
+    {
+      "login": "viccrubs",
+      "name": "Chen Junda",
+      "avatar_url": "https://avatars0.githubusercontent.com/u/8363856?v=4",
+      "profile": "https://viccrubs.me",
+      "contributions": [
+        "infra",
+        "content",
+        "review"
+      ]
+    },
+    {
+      "login": "exlaw",
+      "name": "exlaw",
+      "avatar_url": "https://avatars1.githubusercontent.com/u/32476950?v=4",
+      "profile": "https://github.com/exlaw",
+      "contributions": [
+        "ideas",
+        "content",
+        "review"
+      ]
+    }
+  ],
+  "contributorsPerLine": 7
+}
