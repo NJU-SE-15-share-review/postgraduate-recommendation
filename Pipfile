@@ -7,7 +7,6 @@ verify_ssl = true
 
 [packages]
 sphinx = "*"
-recommonmark = "*"
 doc8 = "*"
 sphinx-rtd-theme = "*"
 
