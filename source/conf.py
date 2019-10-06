@@ -46,6 +46,9 @@ language = 'zh_CN'
 # This pattern also affects html_static_path and html_extra_path.
 exclude_patterns = []
 
+# Fix inconsistencies between readthedocs and sphinx
+master_doc = 'index'
+
 
 # -- Options for HTML output -------------------------------------------------
 
