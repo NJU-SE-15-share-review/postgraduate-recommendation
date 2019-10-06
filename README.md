@@ -14,7 +14,9 @@
 本项目使用[pipenv](https://pipenv.kennethreitz.org/en/latest/)管理pip依赖，请安装：
 
 - Python 3
-- pipenv（`pip install --user pipenv`）
+- pipenv
+    - `pip install --user pipenv` (Windows下已测试)
+    - 若上命令不可用，请参考[官方教程](https://pipenv.kennethreitz.org/en/latest/install/#installing-pipenv)
 
 本项目使用[reStructuredText](http://www.sphinx-doc.org/en/master/usage/restructuredtext/basics.html)进行写作，请学习它。
 
