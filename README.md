@@ -23,7 +23,7 @@
 1. Clone本项目
 2. `pipenv install`安装依赖
 3. `pipenv shell`进入虚拟环境
-4. `.\make run` (Windows)、`make run`（安装了`make`的*nix）构建文档HTML
+4. `.\make html` (Windows)、`make html`（安装了`make`的*nix）构建文档HTML
 5. 使用浏览器打开`build/html/index.html`，即可预览已经产生的文档！
 
 ## Tips
