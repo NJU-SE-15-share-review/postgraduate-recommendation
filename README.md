@@ -15,7 +15,9 @@
 - Python 3
 - pipenv（`pip install --user pipenv`）
 
-本项目使用[reStructuredText](http://docutils.sourceforge.net/rst.html)或者[markdown](https://www.markdownguide.org/)进行写作，请至少学会其中一种格式
+本项目使用[reStructuredText](http://www.sphinx-doc.org/en/master/usage/restructuredtext/basics.html)或者[markdown](https://www.markdownguide.org/)进行写作，请至少学会其中一种格式。
+
+本项目使用[sphinx](http://www.sphinx-doc.org/en/master/contents.html)进行文档生成，如果需要学习对项目进行修改，请查看sphinx的文档。
 
 1. Clone本项目
 2. `pipenv install`安装依赖
