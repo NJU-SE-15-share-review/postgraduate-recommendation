@@ -1,5 +1,9 @@
 # 保研攻略
 
+[![Documentation Status](https://readthedocs.org/projects/postgraduate-recommendation/badge/?version=latest)](https://postgraduate-recommendation.readthedocs.io/zh_CN/latest/?badge=latest)
+
+地址：https://postgraduate-recommendation.readthedocs.io/zh_CN/latest/
+
 由南大软院学长学姐编写的保研攻略，希望大家都能更快更高效更少踩坑地成功保研，拥有光明的未来。
 
 # 贡献
@@ -11,7 +15,7 @@
 - Python 3
 - pipenv（`pip install --user pipenv`）
 
-本项目使用[reStructuredText](http://docutils.sourceforge.net/rst.html)（推荐）或者[markdown](https://www.markdownguide.org/)进行写作，请至少学会其中一种格式
+本项目使用[reStructuredText](http://docutils.sourceforge.net/rst.html)或者[markdown](https://www.markdownguide.org/)进行写作，请至少学会其中一种格式
 
 1. Clone本项目
 2. `pipenv install`安装依赖
