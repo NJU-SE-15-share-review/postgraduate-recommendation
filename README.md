@@ -1,4 +1,5 @@
 # 保研攻略
+
 [![All Contributors](https://img.shields.io/badge/all_contributors-2-orange.svg?style=flat-square)](#贡献者-)
 ![Read the Docs](https://img.shields.io/readthedocs/postgraduate-recommendation?style=flat-square)
 
@@ -34,7 +35,7 @@
 
 fork项目后发PR。
 
-在GitHub中本项目使用[all-contributor]维护贡献者列表。在PR即将被合并时，管理员将会使用all-contributor bot将您加入贡献者列表中。
+在GitHub中本项目使用[all-contributors](https://allcontributors.org/en)维护贡献者列表。在PR即将被合并时，管理员将会使用[all-contributors bot](https://allcontributors.org/docs/en/bot/overview)将您加入贡献者列表中。
 
 在文档中手工维护，若您是第一次贡献本项目，并希望将自己的个人信息写在文档中，请进行以下步骤（若您不想加入，则可以什么都不做）：
 
