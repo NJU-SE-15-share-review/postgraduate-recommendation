@@ -30,7 +30,7 @@
 
 ## Tips
 
-- 目前暂时没看到一个能用的支持中文的reST表格生成器，可以考虑使用VSCode的[Table Formatter](https://marketplace.visualstudio.com/items?itemName=shuworks.vscode-table-formatter)插件进行表格的格式化
+- 目前暂时没看到一个能用的支持中文的reST表格生成器，请使用VSCode的[Table Formatter](https://marketplace.visualstudio.com/items?itemName=shuworks.vscode-table-formatter)插件进行表格的格式化
 - 要在VSCode里预览，请在VSCode里选择Python解释器为带有**pipenv**字样的那项，但此操作需要修改`.vscode/settings.json`文件，不要把它提交上来！
 
 ## 贡献
