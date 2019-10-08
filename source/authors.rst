@@ -15,3 +15,10 @@
 * 南大软院16级
 * 去向：:ref:`schools/pku/eecs:北大信科` 硕士
 * QQ: 540232834；网站：https://viccrubs.me
+
+吴静琦
+--------------------------------------
+
+* 南大软院15级
+* 去向：:ref:`schools/sjtu/se:上交软院` 硕士
+* 主页：https://ipads.se.sjtu.edu.cn/zh/pub/members/jingqi_wu/

@@ -9,7 +9,7 @@
   "imageSize": 64,
   "commit": false,
   "commitConvention": "none",
-  "contributors": [ 
+  "contributors": [
     {
       "login": "exlaw",
       "name": "exlaw",
@@ -30,6 +30,15 @@
         "infra",
         "content",
         "review"
+      ]
+    },
+    {
+      "login": "vivian-jq",
+      "name": "vivian",
+      "avatar_url": "https://avatars1.githubusercontent.com/u/16713101?v=4",
+      "profile": "https://github.com/vivian-jq",
+      "contributions": [
+        "content"
       ]
     }
   ],
