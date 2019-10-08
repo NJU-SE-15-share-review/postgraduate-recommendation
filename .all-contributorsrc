@@ -9,18 +9,7 @@
   "imageSize": 64,
   "commit": false,
   "commitConvention": "none",
-  "contributors": [
-    {
-      "login": "viccrubs",
-      "name": "Chen Junda",
-      "avatar_url": "https://avatars0.githubusercontent.com/u/8363856?v=4",
-      "profile": "https://viccrubs.me",
-      "contributions": [
-        "infra",
-        "content",
-        "review"
-      ]
-    },
+  "contributors": [ 
     {
       "login": "exlaw",
       "name": "exlaw",
@@ -28,6 +17,17 @@
       "profile": "https://github.com/exlaw",
       "contributions": [
         "ideas",
+        "content",
+        "review"
+      ]
+    },
+    {
+      "login": "viccrubs",
+      "name": "Chen Junda",
+      "avatar_url": "https://avatars0.githubusercontent.com/u/8363856?v=4",
+      "profile": "https://viccrubs.me",
+      "contributions": [
+        "infra",
         "content",
         "review"
       ]
