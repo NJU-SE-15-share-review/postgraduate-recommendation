@@ -37,15 +37,22 @@
 
 ## 贡献
 
-fork项目后发PR。
+您可以用如下两种方式对此项目进行贡献：
+
+- fork项目之后发PR
+- 联系**Chen Junda** ([GitHub](https://github.com/viccrubs))获取本项目写权限后，往本项目中**非master**分支提交您的内容，再发PR
 
 在GitHub中本项目使用[all-contributors](https://allcontributors.org/en)维护贡献者列表。在PR即将被合并时，管理员将会使用[all-contributors bot](https://allcontributors.org/docs/en/bot/overview)将您加入贡献者列表中。
 
 在文档中手工维护，若您是第一次贡献本项目，并希望将自己的个人信息写在文档中，请进行以下步骤（若您不想加入，则可以什么都不做）：
 
 - 在`sources/authors.rst`中，根据已有的格式加入您的个人信息
-- 在您所修改过的文件的最后`作者`段中，使用`:ref:``authors:您的姓名```加入到自己个人信息的链接
+- 在您所修改过的文件的最后`作者`段中，使用以下格式加入到自己个人信息的链接。您的姓名要与`authors.rst`中您的姓名相对应。
     - 项目提供了内置的VSCode的code snippet用来输入这个信息，输入`authorref`即可自动输入此code snippet
+
+```
+:ref:`authors:已有的用户1` :ref:`authors:已有的用户2` :ref:`authors:您的姓名` 
+```
 
 ## 贡献者 ✨
 
