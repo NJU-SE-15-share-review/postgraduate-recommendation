@@ -22,3 +22,10 @@
 * 南大软院15级
 * 去向：:ref:`schools/sjtu/se:上交软院` 硕士
 * 主页：https://ipads.se.sjtu.edu.cn/zh/pub/members/jingqi_wu/
+
+王瑞华
+-------------------------------------
+
+* 南大软院16级
+* 去向：:ref:`schools/thu/ss:清华软院` 硕士
+* QQ: 41288121
