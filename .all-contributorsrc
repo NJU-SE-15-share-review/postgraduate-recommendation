@@ -1,6 +1,6 @@
 {
   "projectName": "postgraduate-recommendation",
-  "projectOwner": "viccrubs",
+  "projectOwner": "NJU-SE-15-share-review",
   "repoType": "github",
   "repoHost": "https://github.com",
   "files": [
@@ -37,6 +37,15 @@
       "name": "vivian",
       "avatar_url": "https://avatars1.githubusercontent.com/u/16713101?v=4",
       "profile": "https://github.com/vivian-jq",
+      "contributions": [
+        "content"
+      ]
+    },
+    {
+      "login": "tonywang1945yes",
+      "name": "Tony Wang",
+      "avatar_url": "https://avatars0.githubusercontent.com/u/31364471?v=4",
+      "profile": "https://github.com/tonywang1945yes",
       "contributions": [
         "content"
       ]
