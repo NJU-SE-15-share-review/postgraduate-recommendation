@@ -1,6 +1,6 @@
 # 保研攻略
 
-[![All Contributors](https://img.shields.io/badge/all_contributors-2-orange.svg?style=flat-square)](#贡献者-)
+[![All Contributors](https://img.shields.io/badge/all_contributors-3-green.svg?style=flat-square)](#贡献者-)
 ![Read the Docs](https://img.shields.io/readthedocs/postgraduate-recommendation?style=flat-square)
 
 地址：https://postgraduate-recommendation.readthedocs.io/zh_CN/latest/
@@ -59,6 +59,7 @@ fork项目后发PR。
   <tr>
     <td align="center"><a href="https://github.com/exlaw"><img src="https://avatars1.githubusercontent.com/u/32476950?v=4" width="64px;" alt="exlaw"/><br /><sub><b>exlaw</b></sub></a><br /><a href="#ideas-exlaw" title="Ideas, Planning, & Feedback">🤔</a> <a href="#content-exlaw" title="Content">🖋</a> <a href="#review-exlaw" title="Reviewed Pull Requests">👀</a></td>
     <td align="center"><a href="https://viccrubs.me"><img src="https://avatars0.githubusercontent.com/u/8363856?v=4" width="64px;" alt="Chen Junda"/><br /><sub><b>Chen Junda</b></sub></a><br /><a href="#infra-viccrubs" title="Infrastructure (Hosting, Build-Tools, etc)">🚇</a> <a href="#content-viccrubs" title="Content">🖋</a> <a href="#review-viccrubs" title="Reviewed Pull Requests">👀</a></td>
+    <td align="center"><a href="https://github.com/vivian-jq"><img src="https://avatars1.githubusercontent.com/u/16713101?v=4" width="64px;" alt="vivian"/><br /><sub><b>vivian</b></sub></a><br /><a href="#content-vivian-jq" title="Content">🖋</a></td>
   </tr>
 </table>
 

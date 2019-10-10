@@ -1,0 +1,43 @@
+﻿例1：I && am
+结果：
+I am：2 occurrences
+1.(0)I am a Chinese boy. 
+2.(2)I am twelve.
+
+例2：father || mother
+结果：
+father: 2 occurrences
+mother: 2 occurrences
+1.(5)My father and my mother are both teachers.
+2.(6)My father is a Chinese teacher.
+3.(9)My mother is an English teacher.
+
+例3：!my
+结果：
+!my: 6 occurrences
+1.(0)I am a Chinese boy.
+2.(2)I am twelve.
+3.(3)I have two sisters.
+4.(7)He teached in No 19 Middle School last year.
+5.(8)And now he is teaching in No 21 Middle School.
+6.(10)She teaches in the No 11 Middle School.
+
+例4：(Chinese || English) && teacher
+结果：
+Chinese teacher: 1 occurence
+English teacher: 1 occurence
+1.(6)My father is a Chinese teacher.
+2.(9)My mother is an English teacher.
+
+例5：Chinese && (!boy)
+结果：
+Chinese && (!boy): 1 occurence
+1.(6)My father is a Chinese teacher. 
+
+例6：my && (father || mother)
+结果：
+my father: 2 occurrences
+my mother: 2 occurrences
+1.(5)My father and my mother are both teachers. 
+2.(6)My father is a Chinese teacher.
+3.(9)My mother is an English teacher. 

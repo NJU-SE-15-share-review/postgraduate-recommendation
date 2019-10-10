@@ -22,6 +22,14 @@
 		],
 		"description": "Header 2"
 	},
+	"h3": {
+		"scope": "restructuredtext",
+		"prefix": "h3",
+		"body": [
+			"~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~"
+		],
+		"description": "Header 3"
+	},
 	"Author reference": {
 		"scope": "restructuredtext",
 		"prefix": "authorref",
