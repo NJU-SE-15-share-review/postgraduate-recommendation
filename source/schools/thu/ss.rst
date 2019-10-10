@@ -76,4 +76,4 @@ http://www.thss.tsinghua.edu.cn/
 
 作者
 --------------------------------------
-:ref:`刘瑷玮 王瑞华`
+:ref:`authors:王瑞华` :ref:`authors:刘瑷玮`
