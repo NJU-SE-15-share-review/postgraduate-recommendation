@@ -1,0 +1,72 @@
+Set 2 2
+Set 3 3
+Set 4 4
+Set 10 10
+Get 10
+Get 34
+Set 11 11
+Set 20 20
+Get 4
+Get 3
+Get 11
+Get 18
+Get 20
+Set 7 7
+Set 19 19
+Set 37 37
+Get 19
+Del 20
+Get 20
+Get 19
+Get 37
+Set 14 28
+Set 10 20
+Set 1 2
+Set 15 30
+Set 12 24
+Set 2 4
+Set 9 18
+Set 7 14
+Set 17 34
+Set 6 12
+Set 13 26
+Set 11 22
+Set 4 8
+Set 3 6
+Set 16 32
+Set 8 16
+Set 5 10
+Get 14
+Get 113
+Get 10
+Get 109
+Get 1
+Get 100
+Get 15
+Get 114
+Get 12
+Get 111
+Get 2
+Get 101
+Get 9
+Get 108
+Get 7
+Get 106
+Get 17
+Get 116
+Get 6
+Get 105
+Get 13
+Get 112
+Get 11
+Get 110
+Get 4
+Get 103
+Get 3
+Get 102
+Get 16
+Get 115
+Get 8
+Get 107
+Get 5
+Get 104
