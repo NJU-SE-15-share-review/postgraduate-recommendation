@@ -70,6 +70,7 @@
     <td align="center"><a href="https://github.com/zhanglingzhe0820"><img src="https://avatars2.githubusercontent.com/u/24886743?v=4" width="64px;" alt=""/><br /><sub><b>zhanglingzhe0820</b></sub></a><br /><a href="#content-zhanglingzhe0820" title="Content">🖋</a></td>
     <td align="center"><a href="http://hanxinhu.github.io"><img src="https://avatars3.githubusercontent.com/u/24485000?v=4" width="64px;" alt=""/><br /><sub><b>韩新虎</b></sub></a><br /><a href="#content-hanxinhu" title="Content">🖋</a></td>
     <td align="center"><a href="http://wensun.today"><img src="https://avatars1.githubusercontent.com/u/35923278?v=4" width="64px;" alt=""/><br /><sub><b>Wen Sun</b></sub></a><br /><a href="#content-HermitSun" title="Content">🖋</a></td>
+    <td align="center"><a href="https://github.com/Moonquakes"><img src="https://avatars0.githubusercontent.com/u/38858895?v=4" width="64px;" alt=""/><br /><sub><b>Yuhao Xue</b></sub></a><br /><a href="#content-Moonquakes" title="Content">🖋</a></td>
   </tr>
 </table>
 
