@@ -57,3 +57,10 @@
 * 去向：:ref:`schools/thu/ss:清华软院` 硕士
 * QQ: 595033456
 * 博客：https://blog.csdn.net/HermitSun
+
+杨逸存
+--------------------------------------
+
+* 南大软院17级
+* 去向：:ref:`schools/sjtu/se:上交软院` 硕士
+* QQ:1057206466  wx:yyccyy8668
