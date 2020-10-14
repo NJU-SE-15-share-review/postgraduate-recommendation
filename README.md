@@ -35,6 +35,9 @@
     - `start build/html/index.html`（Windows）
     - `open build/html/index.html`（*nix）
 
+- 插入本地图片可用如下语法：
+    - `.. image:: ../assets/test.png`
+
 ## 贡献
 
 您可以用如下两种方式对此项目进行贡献：
