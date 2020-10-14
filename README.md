@@ -75,7 +75,7 @@
     <td align="center"><a href="https://github.com/Moonquakes"><img src="https://avatars0.githubusercontent.com/u/38858895?v=4" width="64px;" alt=""/><br /><sub><b>Yuhao Xue</b></sub></a><br /><a href="#content-Moonquakes" title="Content">🖋</a></td>
     <td align="center"><a href="https://github.com/GitOfCharlie"><img src="https://avatars1.githubusercontent.com/u/37411016?v=4" width="64px;" alt=""/><br /><sub><b>Charlie_Young</b></sub></a><br /><a href="#content-GitOfCharlie" title="Content">🖋</a></td>
     <td align="center"><a href="https://github.com/HeimingZ"><img src="https://avatars2.githubusercontent.com/u/43991780?v=4" width="64px;" alt=""/><br /><sub><b>Alan Choo</b></sub></a><br /><a href="#content-HeimingZ" title="Content">🖋</a></td>
-    <td align="center"><a href="https://caesarroot.github.io/"><img src="https://avatars2.githubusercontent.com/u/35787647?v=4" width="64px;" alt=""/><br /><sub><b>羊男</b></sub></a><br /><a href="#content-CaesarRoot" title="Content">🖋</a></td>
+    <td align="center"><a href="https://caesarroot.github.io/"><img src="https://avatars2.githubusercontent.com/u/35787647?v=4" width="64px;" alt=""/><br /><sub><b>羊男</b></sub></a><br /><a href="#content-CaesarRoot" title="Content">🖋</a> <a href="https://github.com/NJU-SE-15-share-review/postgraduate-recommendation/pulls?q=is%3Apr+reviewed-by%3ACaesarRoot" title="Reviewed Pull Requests">👀</a></td>
   </tr>
 </table>
 
