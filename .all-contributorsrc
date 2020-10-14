@@ -113,6 +113,15 @@
         "content",
         "review"
       ]
+    },
+    {
+      "login": "Green-Wood",
+      "name": "Wenqi Zhao",
+      "avatar_url": "https://avatars3.githubusercontent.com/u/31267545?v=4",
+      "profile": "https://github.com/Green-Wood",
+      "contributions": [
+        "content"
+      ]
     }
   ],
   "contributorsPerLine": 7,

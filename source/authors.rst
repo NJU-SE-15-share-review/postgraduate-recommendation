@@ -79,3 +79,10 @@
 * 去向：:ref:`schools/thu/cs:清华计科` 直博
 * QQ: 838492657
 * 博客：https://caesarroot.github.io
+
+赵文祺
+-------------------------------------
+
+* 南大软院17级
+* 去向：:ref:`schools/pku/eecs:北大信科` 硕士
+* QQ: 1027572886

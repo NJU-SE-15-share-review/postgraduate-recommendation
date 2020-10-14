@@ -7,3 +7,6 @@ utils/__pycache__/mnist_reader.cpython-37.pyc
 # build
 build/
 _build/
+
+# macos
+.DS_Store
