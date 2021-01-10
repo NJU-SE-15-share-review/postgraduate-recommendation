@@ -78,7 +78,7 @@
 * 南大软院17级
 * 去向：:ref:`schools/thu/cs:清华计科` 直博
 * QQ: 838492657
-* 博客：https://caesarroot.github.io
+* 博客：https://www.zhihu.com/people/yang-nan-41-75/posts
 
 赵文祺
 -------------------------------------
