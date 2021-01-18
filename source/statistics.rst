@@ -35,12 +35,12 @@
 ===================================  ========  ====
                项目                    层次    人数
 ===================================  ========  ====
-:ref:`schools/thu/ss:清华计科`       直博      1
-:ref:`schools/thu/ss:清华软院`       直博      1
-:ref:`schools/thu/ss:清华软院`       硕士     3
-:ref:`schools/pku/eecs:北大信科`     硕士   1
-:ref:`schools/sjtu/se:上交软院`      硕士   5
-:ref:`schools/cas/ict:中科院计算所`  直博   1
+:ref:`schools/thu/ss:清华计科`       直博        1
+:ref:`schools/thu/ss:清华软院`       直博        1
+:ref:`schools/thu/ss:清华软院`       硕士        3
+:ref:`schools/pku/eecs:北大信科`     硕士        1
+:ref:`schools/sjtu/se:上交软院`      硕士        5
+:ref:`schools/cas/ict:中科院计算所`  直博         1
 ===================================  ========  ====
 
 作者
