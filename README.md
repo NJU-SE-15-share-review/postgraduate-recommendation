@@ -66,25 +66,27 @@
 <!-- markdownlint-disable -->
 <table>
   <tr>
-    <td align="center"><a href="https://github.com/exlaw"><img src="https://avatars1.githubusercontent.com/u/32476950?v=4" width="64px;" alt=""/><br /><sub><b>exlaw</b></sub></a><br /><a href="#ideas-exlaw" title="Ideas, Planning, & Feedback">🤔</a> <a href="#content-exlaw" title="Content">🖋</a> <a href="https://github.com/NJU-SE-15-share-review/postgraduate-recommendation/pulls?q=is%3Apr+reviewed-by%3Aexlaw" title="Reviewed Pull Requests">👀</a></td>
-    <td align="center"><a href="https://ddadaal.me"><img src="https://avatars0.githubusercontent.com/u/8363856?v=4" width="64px;" alt=""/><br /><sub><b>Chen Junda</b></sub></a><br /><a href="#infra-ddadaal" title="Infrastructure (Hosting, Build-Tools, etc)">🚇</a> <a href="#content-ddadaal" title="Content">🖋</a> <a href="https://github.com/NJU-SE-15-share-review/postgraduate-recommendation/pulls?q=is%3Apr+reviewed-by%3Addadaal" title="Reviewed Pull Requests">👀</a></td>
-    <td align="center"><a href="https://github.com/vivian-jq"><img src="https://avatars1.githubusercontent.com/u/16713101?v=4" width="64px;" alt=""/><br /><sub><b>vivian</b></sub></a><br /><a href="#content-vivian-jq" title="Content">🖋</a></td>
-    <td align="center"><a href="https://github.com/tonywang1945yes"><img src="https://avatars0.githubusercontent.com/u/31364471?v=4" width="64px;" alt=""/><br /><sub><b>Tony Wang</b></sub></a><br /><a href="#content-tonywang1945yes" title="Content">🖋</a></td>
-    <td align="center"><a href="https://github.com/zhanglingzhe0820"><img src="https://avatars2.githubusercontent.com/u/24886743?v=4" width="64px;" alt=""/><br /><sub><b>zhanglingzhe0820</b></sub></a><br /><a href="#content-zhanglingzhe0820" title="Content">🖋</a></td>
-    <td align="center"><a href="http://hanxinhu.github.io"><img src="https://avatars3.githubusercontent.com/u/24485000?v=4" width="64px;" alt=""/><br /><sub><b>韩新虎</b></sub></a><br /><a href="#content-hanxinhu" title="Content">🖋</a></td>
-    <td align="center"><a href="http://wensun.today"><img src="https://avatars1.githubusercontent.com/u/35923278?v=4" width="64px;" alt=""/><br /><sub><b>Wen Sun</b></sub></a><br /><a href="#content-HermitSun" title="Content">🖋</a></td>
+    <td align="center"><a href="https://github.com/exlaw"><img src="https://avatars1.githubusercontent.com/u/32476950?v=4?s=64" width="64px;" alt=""/><br /><sub><b>exlaw</b></sub></a><br /><a href="#ideas-exlaw" title="Ideas, Planning, & Feedback">🤔</a> <a href="#content-exlaw" title="Content">🖋</a> <a href="https://github.com/NJU-SE-15-share-review/postgraduate-recommendation/pulls?q=is%3Apr+reviewed-by%3Aexlaw" title="Reviewed Pull Requests">👀</a></td>
+    <td align="center"><a href="https://ddadaal.me"><img src="https://avatars0.githubusercontent.com/u/8363856?v=4?s=64" width="64px;" alt=""/><br /><sub><b>Chen Junda</b></sub></a><br /><a href="#infra-ddadaal" title="Infrastructure (Hosting, Build-Tools, etc)">🚇</a> <a href="#content-ddadaal" title="Content">🖋</a> <a href="https://github.com/NJU-SE-15-share-review/postgraduate-recommendation/pulls?q=is%3Apr+reviewed-by%3Addadaal" title="Reviewed Pull Requests">👀</a></td>
+    <td align="center"><a href="https://github.com/vivian-jq"><img src="https://avatars1.githubusercontent.com/u/16713101?v=4?s=64" width="64px;" alt=""/><br /><sub><b>vivian</b></sub></a><br /><a href="#content-vivian-jq" title="Content">🖋</a></td>
+    <td align="center"><a href="https://github.com/tonywang1945yes"><img src="https://avatars0.githubusercontent.com/u/31364471?v=4?s=64" width="64px;" alt=""/><br /><sub><b>Tony Wang</b></sub></a><br /><a href="#content-tonywang1945yes" title="Content">🖋</a></td>
+    <td align="center"><a href="https://github.com/zhanglingzhe0820"><img src="https://avatars2.githubusercontent.com/u/24886743?v=4?s=64" width="64px;" alt=""/><br /><sub><b>zhanglingzhe0820</b></sub></a><br /><a href="#content-zhanglingzhe0820" title="Content">🖋</a></td>
+    <td align="center"><a href="http://hanxinhu.github.io"><img src="https://avatars3.githubusercontent.com/u/24485000?v=4?s=64" width="64px;" alt=""/><br /><sub><b>韩新虎</b></sub></a><br /><a href="#content-hanxinhu" title="Content">🖋</a></td>
+    <td align="center"><a href="http://wensun.today"><img src="https://avatars1.githubusercontent.com/u/35923278?v=4?s=64" width="64px;" alt=""/><br /><sub><b>Wen Sun</b></sub></a><br /><a href="#content-HermitSun" title="Content">🖋</a></td>
   </tr>
   <tr>
-    <td align="center"><a href="https://github.com/Moonquakes"><img src="https://avatars0.githubusercontent.com/u/38858895?v=4" width="64px;" alt=""/><br /><sub><b>Yuhao Xue</b></sub></a><br /><a href="#content-Moonquakes" title="Content">🖋</a></td>
-    <td align="center"><a href="https://github.com/GitOfCharlie"><img src="https://avatars1.githubusercontent.com/u/37411016?v=4" width="64px;" alt=""/><br /><sub><b>Charlie_Young</b></sub></a><br /><a href="#content-GitOfCharlie" title="Content">🖋</a></td>
-    <td align="center"><a href="https://github.com/HeimingZ"><img src="https://avatars2.githubusercontent.com/u/43991780?v=4" width="64px;" alt=""/><br /><sub><b>Alan Choo</b></sub></a><br /><a href="#content-HeimingZ" title="Content">🖋</a></td>
-    <td align="center"><a href="https://caesarroot.github.io/"><img src="https://avatars2.githubusercontent.com/u/35787647?v=4" width="64px;" alt=""/><br /><sub><b>羊男</b></sub></a><br /><a href="#content-CaesarRoot" title="Content">🖋</a> <a href="https://github.com/NJU-SE-15-share-review/postgraduate-recommendation/pulls?q=is%3Apr+reviewed-by%3ACaesarRoot" title="Reviewed Pull Requests">👀</a></td>
-    <td align="center"><a href="https://github.com/Green-Wood"><img src="https://avatars3.githubusercontent.com/u/31267545?v=4" width="64px;" alt=""/><br /><sub><b>Wenqi Zhao</b></sub></a><br /><a href="#content-Green-Wood" title="Content">🖋</a></td>
+    <td align="center"><a href="https://github.com/Moonquakes"><img src="https://avatars0.githubusercontent.com/u/38858895?v=4?s=64" width="64px;" alt=""/><br /><sub><b>Yuhao Xue</b></sub></a><br /><a href="#content-Moonquakes" title="Content">🖋</a></td>
+    <td align="center"><a href="https://github.com/GitOfCharlie"><img src="https://avatars1.githubusercontent.com/u/37411016?v=4?s=64" width="64px;" alt=""/><br /><sub><b>Charlie_Young</b></sub></a><br /><a href="#content-GitOfCharlie" title="Content">🖋</a></td>
+    <td align="center"><a href="https://github.com/HeimingZ"><img src="https://avatars2.githubusercontent.com/u/43991780?v=4?s=64" width="64px;" alt=""/><br /><sub><b>Alan Choo</b></sub></a><br /><a href="#content-HeimingZ" title="Content">🖋</a></td>
+    <td align="center"><a href="https://caesarroot.github.io/"><img src="https://avatars2.githubusercontent.com/u/35787647?v=4?s=64" width="64px;" alt=""/><br /><sub><b>羊男</b></sub></a><br /><a href="#content-CaesarRoot" title="Content">🖋</a> <a href="https://github.com/NJU-SE-15-share-review/postgraduate-recommendation/pulls?q=is%3Apr+reviewed-by%3ACaesarRoot" title="Reviewed Pull Requests">👀</a></td>
+    <td align="center"><a href="https://github.com/Green-Wood"><img src="https://avatars3.githubusercontent.com/u/31267545?v=4?s=64" width="64px;" alt=""/><br /><sub><b>Wenqi Zhao</b></sub></a><br /><a href="#content-Green-Wood" title="Content">🖋</a></td>
+    <td align="center"><a href="https://github.com/stormbroken"><img src="https://avatars.githubusercontent.com/u/46039728?v=4?s=64" width="64px;" alt=""/><br /><sub><b>ZhangHongYin</b></sub></a><br /><a href="#content-stormbroken" title="Content">🖋</a></td>
   </tr>
 </table>
 
-<!-- markdownlint-enable -->
+<!-- markdownlint-restore -->
 <!-- prettier-ignore-end -->
+
 <!-- ALL-CONTRIBUTORS-LIST:END -->
 
 This project follows the [all-contributors](https://github.com/all-contributors/all-contributors) specification. Contributions of any kind welcome!
