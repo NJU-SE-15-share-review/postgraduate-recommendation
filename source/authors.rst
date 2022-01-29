@@ -86,3 +86,10 @@
 * 南大软院17级
 * 去向：:ref:`schools/pku/eecs:北大信科` 硕士
 * QQ: 1027572886
+
+张洪胤
+-------------------------------------
+
+* 南大软院18级
+* 去向：:ref:`schools/thu/ss:清华软院` 硕士
+* QQ: 940296543 Github: https://github.com/stormbroken
