@@ -81,6 +81,7 @@
     <td align="center"><a href="https://caesarroot.github.io/"><img src="https://avatars2.githubusercontent.com/u/35787647?v=4?s=64" width="64px;" alt=""/><br /><sub><b>羊男</b></sub></a><br /><a href="#content-CaesarRoot" title="Content">🖋</a> <a href="https://github.com/NJU-SE-15-share-review/postgraduate-recommendation/pulls?q=is%3Apr+reviewed-by%3ACaesarRoot" title="Reviewed Pull Requests">👀</a></td>
     <td align="center"><a href="https://github.com/Green-Wood"><img src="https://avatars3.githubusercontent.com/u/31267545?v=4?s=64" width="64px;" alt=""/><br /><sub><b>Wenqi Zhao</b></sub></a><br /><a href="#content-Green-Wood" title="Content">🖋</a></td>
     <td align="center"><a href="https://github.com/stormbroken"><img src="https://avatars.githubusercontent.com/u/46039728?v=4?s=64" width="64px;" alt=""/><br /><sub><b>ZhangHongYin</b></sub></a><br /><a href="#content-stormbroken" title="Content">🖋</a></td>
+    <td align="center"><a href="https://www.cnblogs.com/Sparrow612"><img src="https://avatars.githubusercontent.com/u/44128608?v=4?s=64" width="64px;" alt=""/><br /><sub><b>Rongxin Cheng</b></sub></a><br /><a href="#content-Sparrow612" title="Content">🖋</a></td>
   </tr>
 </table>
 
