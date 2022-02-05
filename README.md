@@ -83,6 +83,9 @@
     <td align="center"><a href="https://github.com/stormbroken"><img src="https://avatars.githubusercontent.com/u/46039728?v=4?s=64" width="64px;" alt=""/><br /><sub><b>ZhangHongYin</b></sub></a><br /><a href="#content-stormbroken" title="Content">🖋</a></td>
     <td align="center"><a href="https://www.cnblogs.com/Sparrow612"><img src="https://avatars.githubusercontent.com/u/44128608?v=4?s=64" width="64px;" alt=""/><br /><sub><b>Rongxin Cheng</b></sub></a><br /><a href="#content-Sparrow612" title="Content">🖋</a></td>
   </tr>
+  <tr>
+    <td align="center"><a href="https://github.com/xidao4"><img src="https://avatars.githubusercontent.com/u/47544757?v=4?s=64" width="64px;" alt=""/><br /><sub><b>xidao4</b></sub></a><br /><a href="#content-xidao4" title="Content">🖋</a></td>
+  </tr>
 </table>
 
 <!-- markdownlint-restore -->
