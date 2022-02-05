@@ -1,9 +1,0 @@
-题目：阅读论文，主题报告“大数据处理、机器学习技术与量化投资”
-参考文献：
-1)M.I.Jordan and T.M.Mitchell,"Machine learning: Trends,perspectives,and prospects",Science349(6245),255-260,2015;
-2)Michael L.Littman，"Reinforcement learning improves behaviour from evaluative feedback",Nature,Vol.521,445-451,2015
-3)Yue Deng,Feng Bao,Youyong Kong,Zhiquan Ren,and Qionghai Dai, "Deep Direct Reinforcement Learning for Financial Signal Representation and Trading",IEEE TRANSACTIONS ON NEURAL NETWORKS AND LEARNING SYSTEMS, VOL.28, NO.3, MARCH 2017
-阅读文献，思考以下问题
-1)深度学习和强化学习都是机器学习的分支，请概述其发展的驱动力和基本原理。深度学习与传统机器学习技术有何异同？深度学习如何与强化学习相结合？
-2)如文献【1】图5所示，Spark是适合解决迭代式机器学习领域问题的一个典型的大数据处理开源框架，请概述其编程模型要点。支持深度学习的开源框架TensorFlow与Spark的主要区别在哪里？
-3)文献【3】阐述了深度学习和强化学习技术在金融领域的一种具体应用。请概述该论文的工作要点，并谈谈你的观点。
