@@ -10,6 +10,14 @@
 * 去向：:ref:`schools/thu/ss:清华软院` 硕士
 * QQ: 940296543 Github: https://github.com/stormbroken
 
+李俊杰
+-------------------------------------
+
+* 南大软院18级
+* 去向：:ref:`schools/sjtu/cs:上交计科` 硕士
+* QQ: 1464390895
+* 博客: https://zhuanlan.zhihu.com/p/402319965
+
 廖兰宇
 -------------------------------------
 
