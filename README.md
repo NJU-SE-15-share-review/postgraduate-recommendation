@@ -88,6 +88,7 @@
     <td align="center"><a href="https://www.cnblogs.com/cpaulyz/"><img src="https://avatars.githubusercontent.com/u/43774645?v=4?s=64" width="64px;" alt=""/><br /><sub><b>Chen YZ</b></sub></a><br /><a href="#content-Cpaulyz" title="Content">🖋</a></td>
     <td align="center"><a href="https://github.com/Plutooooooo"><img src="https://avatars.githubusercontent.com/u/48237151?v=4?s=64" width="64px;" alt=""/><br /><sub><b>LLY</b></sub></a><br /><a href="#content-Plutooooooo" title="Content">🖋</a></td>
     <td align="center"><a href="https://github.com/caposerenity"><img src="https://avatars.githubusercontent.com/u/54013284?v=4?s=64" width="64px;" alt=""/><br /><sub><b>caposerenity</b></sub></a><br /><a href="#content-caposerenity" title="Content">🖋</a></td>
+    <td align="center"><a href="https://github.com/garyGlh"><img src="https://avatars.githubusercontent.com/u/48237596?v=4?s=64" width="64px;" alt=""/><br /><sub><b>garyGlh</b></sub></a><br /><a href="#content-garyGlh" title="Content">🖋</a></td>
   </tr>
 </table>
 
