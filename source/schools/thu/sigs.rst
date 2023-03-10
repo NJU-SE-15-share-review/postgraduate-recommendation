@@ -6,7 +6,7 @@
 官网：https://www.sigs.tsinghua.edu.cn/
 
 2021年（18级）
->>>>>>>>>
+>>>>>>>>>>>>>>>>
 
 `夏令营推送 <https://mp.weixin.qq.com/s/BbvijJc2WTA5K-im9oPNiA>`_ `预推免推送 <https://mp.weixin.qq.com/s/q0sgj5R1Hev_5wLaRr7pVQ>`_ 
 
