@@ -187,4 +187,4 @@ by 周子杰
 
 作者
 --------------------------------------
-:ref:`authors:王瑞华` :ref:`authors:刘瑷玮` :ref:`authors:孙逸伦` :ref:`authors:朱海铭` :ref:`authors:张洪胤` 徐琪 周子杰
+:ref:`authors:王瑞华` :ref:`authors:刘瑷玮` :ref:`authors:孙逸伦` :ref:`authors:朱海铭` :ref:`authors:张洪胤` :ref:`authors:徐琪` :ref:`authors:周子杰`  
