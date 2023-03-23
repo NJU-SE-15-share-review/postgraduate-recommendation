@@ -36,4 +36,4 @@
 
 作者
 --------------------------------------
-:ref:`authors:刘瑷玮` :ref:`authors:李俊杰` 陈梓俊
+:ref:`authors:刘瑷玮` :ref:`authors:李俊杰` :ref:`authors:陈梓俊`

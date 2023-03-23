@@ -24,4 +24,4 @@ http://ai.ruc.edu.cn/
 
 作者
 --------------------------------------
-:ref:`authors:廖兰宇` 陈梓俊
+:ref:`authors:廖兰宇` :ref:`authors:陈梓俊`
