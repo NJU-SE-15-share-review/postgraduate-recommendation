@@ -62,4 +62,4 @@
 
 作者
 --------------------------------------
-:ref:`authors:刘瑷玮` :ref:`authors:陈俊达` :ref:`authors:朱海铭` :ref:`authors:廖兰宇` 徐琪
+:ref:`authors:刘瑷玮` :ref:`authors:陈俊达` :ref:`authors:朱海铭` :ref:`authors:廖兰宇` :ref:`authors:徐琪` 
